@@ -1,0 +1,58 @@
+.nav-link
+{
+    color: brown;
+    justify-content: center;
+}
+
+.nav-bar
+{
+    padding: 30px;
+}
+
+#nav-bar
+{
+    overflow: hidden;
+}
+
+#nav-bar a
+{
+    float: inline-start;
+}
+
+
+.header1
+{
+    top: 0px;
+    min-height: 75px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 184, 175);
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+
+#work
+{
+    display: flex;
+    justify-content: center;
+    top: 150px;
+}
+
+#form
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p
+{
+    color: snow;
+}
+
+.Description
+{
+    background-color: royalblue;
+}
